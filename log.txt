@@ -1,0 +1,16 @@
+//cheat sheet
+http://docs.scala-lang.org/cheatsheets/
+
+//scala programming launguage // example code
+http://www.cs.helsinki.fi/u/wikla/OTS/Sisalto/examples/html/ch17.html
+
+//Scala的import机制总结
+http://itang.iteye.com/blog/1148865
+note:
+	1. 用update 去set idx value
+	var ab = ArrayBuffer[Int](1,2,3)
+	ab.update(0, 100)
+	
+	
+	
+	
